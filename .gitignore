@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Downloads / outputs
+reels/
+downloads/
+
+# Secrets
+cookie.json
+
